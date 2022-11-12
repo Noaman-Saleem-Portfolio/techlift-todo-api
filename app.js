@@ -4,7 +4,7 @@ let userId = document.getElementById("userId");
 let title = document.getElementById("title");
 let desc = document.getElementById("desc");
 let form = document.getElementById("form");
-let btn = document.getElementById("btn");
+let getBtn = document.getElementById("getBtn");
 
 // console.log(userId);
 // console.log(title);
